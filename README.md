@@ -7,9 +7,9 @@ Emphasize model stability, ensuring consistent performance over time.
 ## Project Structure:
 The specific folder structure will depend on your workflow, but standard directories might include:
 </br> Data: Stores competition datasets.
-### Notebooks: Contains Jupyter notebooks for data exploration, analysis, and model development.
-### Models: Saves trained models and their configurations.
-### Reports: Includes figures, tables, and other visualizations used in the analysis.
+</br> Notebooks: Contains Jupyter notebooks for data exploration, analysis, and model development.
+</br> Models: Saves trained models and their configurations.
+</br> Reports: Includes figures, tables, and other visualizations used in the analysis.
 ## Evaluation Metric:
 The competition uses a custom Gini stability metric considering predictive power and stability over time.
 ## Resources:
